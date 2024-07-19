@@ -1,0 +1,31 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+   
+  }
+  
+  .card h2 {
+    color: #333;
+  }
+  
+  .card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .card ul li, .card ol li {
+    margin-bottom: 8px;
+  }
+  
+  .card ol {
+    padding-left: 20px;
+  }
+  
+  .card p {
+    font-style: italic;
+  }
+  
