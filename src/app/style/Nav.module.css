@@ -1,7 +1,7 @@
 
 
 .menu {
-    background-color: #333;
+    background-color: #FFBF5F;
     overflow: hidden;
 }
 
@@ -18,12 +18,13 @@
 
 .menu a {
     display: block;
-    color: white;
+    color: black;
+    font-weight: bold;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .menu a:hover {
-    background-color: #111;
+    background-color: #DA8504;
 }
